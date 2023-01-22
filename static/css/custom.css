@@ -1,0 +1,9 @@
+/* tabs plugin custom css */
+
+.dark .logseq-tab[data-active=true] {
+  background-color: rgba(0,0,0,0);
+}
+
+.dark .logseq-tab[data-active=false] {
+  background-color: #444444;
+}
